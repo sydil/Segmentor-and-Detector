@@ -35,6 +35,7 @@ Required libraries:
 
 This code is compatible with Python versions 2.7-3.5.
 
-### Run main.py for segmentation
-### Run centroid.py for Detection
+### Run 
+1. main.py for segmentation
+2. centroid.py for Detection
 
